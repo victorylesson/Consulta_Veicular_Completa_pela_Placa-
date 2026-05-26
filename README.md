@@ -85,7 +85,7 @@ ls-check/
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seuusuario/ls-check.git
+git clone victorylesson/consulta-veicular.git
 ```
 
 2. Abra a pasta:
