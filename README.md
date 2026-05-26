@@ -125,7 +125,7 @@ Estudante de Tecnologia · Desenvolvedor Freelancer
 Especialista em criação de sites, UX/UI e automação com IA
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/victory__dev/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/victorylesson))
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/victorylesson)
 
 ---
 
